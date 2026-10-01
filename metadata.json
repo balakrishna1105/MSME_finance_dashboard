@@ -1,0 +1,7 @@
+{
+  "name": "Azad Enterprise Document Intelligence",
+  "description": "High-throughput enterprise document intelligence and OCR ledger platform with day-wise processing, human-in-the-loop review, field schema builder, and user RBAC management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
